@@ -1,0 +1,15 @@
+--------------------------------------------------
+Directory Duplicate File Finder
+Log created at : Sat Feb  7 00:01:35 2026
+--------------------------------------------------
+Duplicate files are :
+Demo\Demo - Copy.doc
+Demo\Demo.doc
+
+Demo\Hello - Copy.doc
+Demo\Hello.doc
+
+Demo\Search - Copy.doc
+Demo\Search.doc
+
+--------------------------------------------------
